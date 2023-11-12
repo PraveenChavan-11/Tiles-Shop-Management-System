@@ -47,6 +47,7 @@ This guide is crafted to assist new users in navigating the "TILES SHOP MANAGEME
 Explore and manage your tile shop efficiently with the TILES SHOP MANAGEMENT SYSTEM!
 
 **Screenshots:**
+
 ![Screenshot 2023-11-12 123447](https://github.com/PraveenChavan-11/Tiles-Shop-Management-System/assets/142572979/5ee7ce9b-24e2-4eb8-ab9b-020d75d363cc)
 ![Screenshot 2023-11-12 123402](https://github.com/PraveenChavan-11/Tiles-Shop-Management-System/assets/142572979/47a95c00-031b-4dba-879b-7cd2c5bab9a5)
 ![Screenshot 2023-11-12 123335](https://github.com/PraveenChavan-11/Tiles-Shop-Management-System/assets/142572979/00c23341-806d-468d-8aa7-d7a9f73bba4c)
